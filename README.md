@@ -65,6 +65,38 @@ The data used for this work was gotten from Kaggle online data company.
 
 ![](Tableau4.png)
 
+## Charts
+
+![](Tableau.png)
+
+
+![](Tableau5.png)
+
+
+![](Tableu6.png)
+
+
+![](Tableau7.png)
+
+
+![](Tableau8.png)
+
+
+![](Tableau9.png)
+
+
+# DASHBOARD
+
+
+![](Tableau11.png)
+
+
+
+
+
+
+
+
 
 
 
