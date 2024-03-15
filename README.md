@@ -61,6 +61,11 @@ The data used for this work was gotten from Kaggle online data company.
 ![](Tableau3.png)
 
 
+## Creating calculated field for Age group
+
+![](Tableau4.png)
+
+
 
 
 
