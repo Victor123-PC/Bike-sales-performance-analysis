@@ -46,6 +46,14 @@ This is an analysis of Bike store sales. The data contains the following columns
 
 The data used for this work was gotten from Kaggle online data company.
 
+## Uploading data into Tableau from data source
+
+![](Tableau1.png)
+
+
+
+
+
 **INSIGHTS**
 
 •	United State has the highest demand per product category while Germany has the lowest demand per product category
