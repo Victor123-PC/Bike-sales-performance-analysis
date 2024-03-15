@@ -56,6 +56,11 @@ The data used for this work was gotten from Kaggle online data company.
 ![](Tableau2.png)
 
 
+## View of calculated field creating column for profit
+
+![](Tableau3.png)
+
+
 
 
 
