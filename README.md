@@ -51,6 +51,11 @@ The data used for this work was gotten from Kaggle online data company.
 ![](Tableau1.png)
 
 
+## Tableau interface with data ready to create visuals
+
+![](Tableau2.png)
+
+
 
 
 
